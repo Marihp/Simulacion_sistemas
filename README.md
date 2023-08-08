@@ -1,5 +1,7 @@
 # Simulacion de Sistemas - UNAL
 - Profesora : Yris Olaya - yolayam@unal.edu.co
+- Oficina: M8A- 209
+- Horario de atención: Martes después de clase - 4 pm
 - Código: 3007331
 
 ## Metodología
