@@ -1,11 +1,13 @@
 # Simulación de sistemas
-Bibliografía Pooch & Wall, 2000
+Bibliografía Pooch & Wall, 2000 
+- [Simulación Monte Carlo](https://aws.amazon.com/es/what-is/monte-carlo-simulation/)
 
 ### Sistema:
 Es un co
 
 ## Modelo:
-Declaración no ambigua de la forma en la que interactuan los componentes del sistema. Se utilizarán modelos numéricos
+Declaración no ambigua de la forma en la que interactuan los componentes del sistema. Se utilizarán modelos numéricos. Siempre va abstraer condiciones reales
+
   - Físico
   - Matemáticos
 
@@ -34,6 +36,13 @@ Se concentrará en el componente estocástico.
 |     | Dinámica   | Estática  |
 | Determinística   | Dinámica de sistemas   | --- |
 | Estocástica   | Simulación basada en eventos, SBA  | Simulación Carlo |
+
+### Simular o experimentar?
+Considerar las condiciones de: costo, tiempo, replicación, seguridad, legalidad.
+- ¿Por qué es conveniente usar simulación?
+  - Porque algunos problemas matemáticos o de sistemas no tienen solución analítica
+  - Porque la experimentación en sistemas reales suele ser costosa
+  - Porque investiga estrategias posibles
 
 
 
